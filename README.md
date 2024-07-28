@@ -28,8 +28,6 @@ With the data preprocessed and transformed, the next steps involve:
 - Fine-tuning the hyperparameters of the selected model(s) using techniques such as grid search or random search.
 - Selecting the final model based on evaluation results and deploying it for predicting hotel booking cancellations.
 
-## Conclusion
-By systematically preprocessing the data and evaluating various machine learning algorithms, we aim to develop a robust predictive model that accurately predicts hotel booking cancellations. This model can assist hotel management in optimizing resource allocation and improving overall operational efficiency.
 
 ## Dataset
 The dataset used in this project can be found `hotel.csv`.
